@@ -6,4 +6,6 @@ pero manana sera un nuevo dia
 
 Main 1
 
+Main 2
+
 y mostraremos la historia de nuestro heroe
